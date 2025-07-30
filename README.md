@@ -55,7 +55,9 @@ Watch the working project in action:
 
 ### 🔌 Circuit Diagram
 
-![Car Parking Circuit](./How_to_make_Car_Parking_System_using_Arduino.png)
+![Car Parking Circuit]
+<img width="1920" height="1020" alt="How to make Car Parking System using Arduino and lcd display" src="https://github.com/user-attachments/assets/1e831d74-756e-49aa-a079-26d3214c5edf" />
+
 
 ---
 
