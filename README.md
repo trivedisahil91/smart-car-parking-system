@@ -129,6 +129,13 @@ You can simulate the project using **Proteus** with the file:
 
 ---
 
+### 🙋‍♂️ Author
+
+**Sahil Trivedi**
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/trivedi-sahil-5212002b0)
+
+---
+
 ### 📬 Contact
 
 For doubts or improvements, feel free to reach out or fork this project!
